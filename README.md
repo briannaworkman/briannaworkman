@@ -8,7 +8,7 @@ I'm Bri! I am a front end software engineer with a passion for building exceptio
 -   📫 How to reach me: briworkman9@gmail.com
 -   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/brianna-m-workman/)
 -   😄 Pronouns: she/her/hers
--   ⚡ Fun fact: I have a clownfish named Nemo 🐠
+-   ⚡ Fun fact: I took care of and released 200+ baby sea turtles back into the ocean in Costa Rica 🐢
 
 ### Languages and Tools:
 
