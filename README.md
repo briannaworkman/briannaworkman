@@ -7,7 +7,6 @@ I'm Bri! I am a front end software engineer with a passion for building exceptio
 -   💬 Ask me about [BloomTech](https://www.bloomtech.com/) or Nerdery
 -   📫 How to reach me: hello.briworkman@gmail.com
 -   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/brianna-m-workman/)
--   😄 Pronouns: she/her/hers
 -   ⚡ Fun fact: I took care of and released 200+ baby sea turtles back into the ocean in Costa Rica 🐢
 
 ### Languages and Tools:
