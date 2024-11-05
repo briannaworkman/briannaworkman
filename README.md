@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Bri
 
-I'm Bri! I am a front end software engineer with a passion for building exceptional, high-quality websites and applications for the web 👩‍💻
+I am a front end software engineer with a passion for building exceptional, high-quality websites and applications for the web 👩‍💻
+
+---
+
+### About Me:
 
 -   💻 I'm currently working at [Nerdery](https://www.nerdery.com/)
 -   🌳 I’m currently learning three.js
@@ -8,6 +12,10 @@ I'm Bri! I am a front end software engineer with a passion for building exceptio
 -   📫 How to reach me: hello.briworkman@gmail.com
 -   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/brianna-m-workman/)
 -   ⚡ Fun fact: I took care of and released 200+ baby sea turtles back into the ocean in Costa Rica 🐢
+
+### My GitHub Contributions Summary:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=briannaworkman&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ### Languages and Tools:
 
