@@ -15,7 +15,7 @@ I am a front end software engineer with a passion for building exceptional, high
 
 ### My GitHub Contributions Summary:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=briannaworkman&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=briannaworkman&theme=black-ice&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### Languages and Tools:
 
