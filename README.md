@@ -7,7 +7,7 @@ I am a front end software engineer with a passion for building exceptional, high
 ### About Me:
 
 -   💻 I'm currently working at [Nerdery](https://www.nerdery.com/)
--   🌳 I’m currently learning three.js
+-   🌳 I’m currently learning Python 🐍
 -   💬 Ask me about [BloomTech](https://www.bloomtech.com/) or Nerdery
 -   📫 How to reach me: hello.briworkman@gmail.com
 -   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/brianna-m-workman/)
