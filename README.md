@@ -7,7 +7,7 @@ I am a front end software engineer with a passion for building exceptional, high
 ### About Me:
 
 -   💻 I'm currently working at [Signal Advisors](https://www.signaladvisors.com/)
--   🌳 I’m currently learning Python 🐍
+-   🌳 I’m currently learning about all things Claude & AI workflows
 -   💬 Ask me about [BloomTech](https://www.bloomtech.com/) or Signal
 -   📫 How to reach me: hello.briworkman@gmail.com
 -   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bri-workman/)
@@ -20,6 +20,7 @@ I am a front end software engineer with a passion for building exceptional, high
 ### Languages and Tools:
 
 <div>
+    <a href="https://claude.ai/" target="_blank"><img align="left" alt="Claude" width="26px" src="https://raw.githubusercontent.com/briannaworkman/briannaworkman/master/icons/claude-color.svg?raw=true" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/briannaworkman/briannaworkman/master/icons/html5.svg?raw=true" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/briannaworkman/briannaworkman/master/icons/css3.svg?raw=true" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/briannaworkman/briannaworkman/master/icons/tailwind.svg?raw=true" /></a>
