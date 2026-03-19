@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bri
 
-I am a front end software engineer with a passion for building exceptional, high-quality websites and applications for the web 👩‍💻
+I am a software engineer with a passion for building exceptional, high-quality websites and applications for the web 👩‍💻
 
 ---
 
